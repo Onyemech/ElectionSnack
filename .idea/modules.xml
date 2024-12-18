@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/inheritancee/E-Store-things/E-Store-things.iml" filepath="$PROJECT_DIR$/inheritancee/E-Store-things/E-Store-things.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance.iml" filepath="$PROJECT_DIR$/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritancee/inheritancee.iml" filepath="$PROJECT_DIR$/inheritancee/inheritancee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myCodingExercise.iml" filepath="$PROJECT_DIR$/myCodingExercise.iml" />
+    </modules>
+  </component>
+</project>
